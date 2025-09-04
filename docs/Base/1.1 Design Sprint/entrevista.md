@@ -14,7 +14,7 @@ A entrevista foi conduzida individualmente pelo entrevistador [João Pedro Costa
 
 | **Data**  | **Hora** | **Entrevistador** | **Entrevistado**             | **Duração** | **Local**                      |
 |----------|--|--------------------|------------------------------|-------------|---------------------------------|
-| 03/09/2025 | 23:00 | [João Pedro Costa](https://github.com/johnaopedro)    | Livia   | 30:00       | Virtual (Google Meet)  |
+| 03/09/2025 | 23:00 | [João Pedro Costa](https://github.com/johnaopedro)    | Livia   | 20:49       | Virtual (Google Meet)  |
 
 
 <font size="3"><p style="text-align: center"><b>Roteiro de Entrevista de Elicitação: App de Chat de Idiomas</b></p></font>
@@ -109,26 +109,26 @@ Abaixo, na **Tabela 1**, os requisitos funcionais que foram elicitados a partir 
 
 | ID      | Requisito Funcional     |Rastreabilidade|
 |---------|-------------------------| --------------|
-| RF01 |O sistema deve permitir conversas por mensagem de texto.|“...a conversa pode se iniciar com um diálogo por mensagem...”|
-| RF02 |O sistema deve oferecer a opção de conversas por voz (áudio/ligação)|“...e depois... poder ter essa opção de mandar áudio...”|
-| RF03 |O sistema deve permitir iniciar conversas com um contexto pré-definido.|“...tem que ter um contexto previamente aplicado...”|
-| RF04 |O sistema deve disponibilizar uma ferramenta de pesquisa de palavras dentro do aplicativo.|“...algo para você pesquisar alguma palavra que a pessoa falou...”|
-| RF05 |O sistema deve permitir que o usuário bloqueie outros usuários.|“...o que te faria fazer uma ação dessas? Assédio... bloquear essa pessoa...”|
-| RF06 |O sistema deve permitir que o usuário avalie a conversa como útil ou não útil.|“...você acha que seria útil ter como avaliar essa conversa como útil ou não útil...”|
-| RF07 |O sistema deve usar o feedback das avaliações para ajustar o pareamento com futuros parceiros.|“...de acordo com essa avaliação, mandariam outras pessoas...”|
-| RF08 |O sistema deve possibilitar conexões com diferentes parceiros de conversa (rotatividade).|“...por ser um sistema que vai rodando as pessoas, que você vai ter esse contato...”|
-| RF09 |O sistema deve oferecer um feed social para compartilhamento de conteúdos relacionados ao aprendizado de idiomas.|“...incorporar uma questão de feed social... onde as pessoas podem ficar compartilhando conteúdo...”|
-| RF10 |O sistema deve permitir que os usuários adicionem amigos e mantenham contato com eles.|“...o método de adicionar amigos cabe a esse aplicativo também? Sim...”|
-| RF11 |O sistema deve possibilitar manter histórico de conversas, permitindo reabrir chats passados.|“...as conversas têm um histórico como no WhatsApp, por exemplo...”|
-| RF12 |O sistema deve oferecer suporte a várias línguas em paralelo, sem limitar a um idioma por chat.|“...se a gente puder fazer várias línguas ao mesmo tempo no chat...”|
-| RF13 |O sistema deve incentivar a prática diária por meio de mecanismos de engajamento (ex.: streaks, bandeiras, recompensas visuais).|“...alguma daquelas coisas de assiduidade... Duolingo tem um foguinho... bandeira do Brasil aumentando...”|
-| RF14 |O sistema deve permitir compartilhar resultados com outros usuários dentro do próprio app.|“...só por você poder adicionar os seus colegas no próprio aplicativo...”|
-| RF15 |O sistema deve ter uma interface simples e intuitiva, similar ao WhatsApp.|“...acho que deveria ser simples. Igual o WhatsApp. Mais simples mesmo.”|
-| RF16 |O sistema deve organizar a interface em abas distintas (ex.: feed, assiduidade, chat).|“...dividir realmente por feed, o local onde tem essa questão da assiduidade...”|
-| RF17 |O sistema deve permitir que o usuário ative o modo leitura para facilitar a visualização.|“...quando você está em um modo leitura, por exemplo. Porque a sua visão dói menos...”|
-| RF18 |O sistema deve oferecer modo escuro como opção de personalização da interface.|“...modo leitura, modo escuro, notificação personalizada, tutorial...”|
-| RF19 |O sistema deve permitir que o usuário configure notificações personalizadas.|“...vou configurar as minhas notificações...”|
-| RF20 |O sistema deve disponibilizar um tutorial inicial para orientar novos usuários.|“...modo leitura, modo escuro, notificação personalizada, tutorial...”|
+| ENRF01 |O sistema deve permitir conversas por mensagem de texto.|“...a conversa pode se iniciar com um diálogo por mensagem...”|
+| ENRF02 |O sistema deve oferecer a opção de conversas por voz (áudio/ligação)|“...e depois... poder ter essa opção de mandar áudio...”|
+| ENRF03 |O sistema deve permitir iniciar conversas com um contexto pré-definido.|“...tem que ter um contexto previamente aplicado...”|
+| ENRF04 |O sistema deve disponibilizar uma ferramenta de pesquisa de palavras dentro do aplicativo.|“...algo para você pesquisar alguma palavra que a pessoa falou...”|
+| ENRF05 |O sistema deve permitir que o usuário bloqueie outros usuários.|“...o que te faria fazer uma ação dessas? Assédio... bloquear essa pessoa...”|
+| ENRF06 |O sistema deve permitir que o usuário avalie a conversa como útil ou não útil.|“...você acha que seria útil ter como avaliar essa conversa como útil ou não útil...”|
+| ENRF07 |O sistema deve usar o feedback das avaliações para ajustar o pareamento com futuros parceiros.|“...de acordo com essa avaliação, mandariam outras pessoas...”|
+| ENRF08 |O sistema deve possibilitar conexões com diferentes parceiros de conversa (rotatividade).|“...por ser um sistema que vai rodando as pessoas, que você vai ter esse contato...”|
+| ENRF09 |O sistema deve oferecer um feed social para compartilhamento de conteúdos relacionados ao aprendizado de idiomas.|“...incorporar uma questão de feed social... onde as pessoas podem ficar compartilhando conteúdo...”|
+| ENRF10 |O sistema deve permitir que os usuários adicionem amigos e mantenham contato com eles.|“...o método de adicionar amigos cabe a esse aplicativo também? Sim...”|
+| ENRF11 |O sistema deve possibilitar manter histórico de conversas, permitindo reabrir chats passados.|“...as conversas têm um histórico como no WhatsApp, por exemplo...”|
+| ENRF12 |O sistema deve oferecer suporte a várias línguas em paralelo, sem limitar a um idioma por chat.|“...se a gente puder fazer várias línguas ao mesmo tempo no chat...”|
+| ENRF13 |O sistema deve incentivar a prática diária por meio de mecanismos de engajamento (ex.: streaks, bandeiras, recompensas visuais).|“...alguma daquelas coisas de assiduidade... Duolingo tem um foguinho... bandeira do Brasil aumentando...”|
+| ENRF14 |O sistema deve permitir compartilhar resultados com outros usuários dentro do próprio app.|“...só por você poder adicionar os seus colegas no próprio aplicativo...”|
+| ENRF15 |O sistema deve ter uma interface simples e intuitiva, similar ao WhatsApp.|“...acho que deveria ser simples. Igual o WhatsApp. Mais simples mesmo.”|
+| ENRF16 |O sistema deve organizar a interface em abas distintas (ex.: feed, assiduidade, chat).|“...dividir realmente por feed, o local onde tem essa questão da assiduidade...”|
+| ENRF17 |O sistema deve permitir que o usuário ative o modo leitura para facilitar a visualização.|“...quando você está em um modo leitura, por exemplo. Porque a sua visão dói menos...”|
+| ENRF18 |O sistema deve oferecer modo escuro como opção de personalização da interface.|“...modo leitura, modo escuro, notificação personalizada, tutorial...”|
+| ENRF19 |O sistema deve permitir que o usuário configure notificações personalizadas.|“...vou configurar as minhas notificações...”|
+| ENRF20 |O sistema deve disponibilizar um tutorial inicial para orientar novos usuários.|“...modo leitura, modo escuro, notificação personalizada, tutorial...”|
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Julia Gabriela](https://github.com/JuliaGabP), 2025.</p></font>
 
@@ -145,17 +145,17 @@ Abaixo, na **Tabela 2**, os requisitos não funcionais que foram elicitados a pa
 
 | ID      | Requisito Não-Funcional    | Rastreabilidade|
 |---------|-------------------------------| ------------|
-| RNF01 |O sistema não deve realizar traduções automáticas instantâneas, para incentivar o esforço do aprendizado.|“...mas não deveria ser uma tradução instantânea...”|
-| RNF02 |O sistema deve prezar pela segurança e privacidade do usuário, prevenindo assédio e comportamentos agressivos.|“...bloquear... assédio... pessoa agressiva...”|
-| RNF03 |O sistema deve ser confiável em manter um ambiente de aprendizado produtivo.|“...uma conversa útil é aquela em que eu consiga aprender novas palavras...”|
-| RNF04 |O sistema deve priorizar experiência gradual (começar com texto, evoluir para voz).|“...a conversa pode se iniciar com um diálogo por mensagem... e depois... áudio...”|
-| RNF05 |O sistema deve proporcionar fluidez na troca de mensagens, sem atrasos perceptíveis.|Implícito pela necessidade de aprendizado em tempo real.|
-| RNF06 |O sistema deve oferecer experiência de uso confortável mesmo com diferentes perfis de usuários (pacientes e impacientes).|“...fluência entre pessoas que talvez não tenham tanto conhecimento, mas tenham paciência...”|
-| RNF07 |O sistema deve garantir privacidade das conversas entre os usuários.|“...isso daí é uma coisa que a gente não planeja por conta de privacidade das conversas...”|
-| RNF08 |O sistema deve ser simples e objetivo, evitando excesso de elementos visuais desnecessários.|“...acho que deveria ser simples. Igual o WhatsApp...”|
-| RNF09 |O sistema deve ter uma linguagem da interface clara, educada e acessível.|“...o sistema do aplicativo ter uma linguagem mais séria, mais educada...”|
-| RNF10 |O sistema deve ser escalável para múltiplos idiomas e comunidades de usuários.|“...ter realmente uma abrangência maior de línguas...”|
-| RNF11 |O design deve ser motivador e engajador, com elementos visuais que incentivem a continuidade do uso.|“...ter esse mecanismo, nem que seja uma florzinha ou uma bandeira...”|
+| ENRNF01 |O sistema não deve realizar traduções automáticas instantâneas, para incentivar o esforço do aprendizado.|“...mas não deveria ser uma tradução instantânea...”|
+| ENRNF02 |O sistema deve prezar pela segurança e privacidade do usuário, prevenindo assédio e comportamentos agressivos.|“...bloquear... assédio... pessoa agressiva...”|
+| ENRNF03 |O sistema deve ser confiável em manter um ambiente de aprendizado produtivo.|“...uma conversa útil é aquela em que eu consiga aprender novas palavras...”|
+| ENRNF04 |O sistema deve priorizar experiência gradual (começar com texto, evoluir para voz).|“...a conversa pode se iniciar com um diálogo por mensagem... e depois... áudio...”|
+| ENRNF05 |O sistema deve proporcionar fluidez na troca de mensagens, sem atrasos perceptíveis.|Implícito pela necessidade de aprendizado em tempo real.|
+| ENRNF06 |O sistema deve oferecer experiência de uso confortável mesmo com diferentes perfis de usuários (pacientes e impacientes).|“...fluência entre pessoas que talvez não tenham tanto conhecimento, mas tenham paciência...”|
+| ENRNF07 |O sistema deve garantir privacidade das conversas entre os usuários.|“...isso daí é uma coisa que a gente não planeja por conta de privacidade das conversas...”|
+| ENRNF08 |O sistema deve ser simples e objetivo, evitando excesso de elementos visuais desnecessários.|“...acho que deveria ser simples. Igual o WhatsApp...”|
+| ENRNF09 |O sistema deve ter uma linguagem da interface clara, educada e acessível.|“...o sistema do aplicativo ter uma linguagem mais séria, mais educada...”|
+| ENRNF10 |O sistema deve ser escalável para múltiplos idiomas e comunidades de usuários.|“...ter realmente uma abrangência maior de línguas...”|
+| ENRNF11 |O design deve ser motivador e engajador, com elementos visuais que incentivem a continuidade do uso.|“...ter esse mecanismo, nem que seja uma florzinha ou uma bandeira...”|
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Julia Gabriela](https://github.com/JuliaGabP), 2025.</p></font>
 
@@ -171,3 +171,4 @@ O documento da entrevista pode ser visualizado [aqui](/docs/Assets/Entrevista.pd
 |--------|------------|------------------------------------------------|---------------------|--------------------|
 | 1.0    | 03/09/2025 | Criação do documento geral e seu preenchimento | [João Pedro Costa](https://github.com/johnaopedro)   |  [Julia Gabriela](https://github.com/JuliaGabP)  |
 | 1.1    | 04/09/2025 | Levantamento dos requisitos  | [Julia Gabriela](https://github.com/JuliaGabP) |  [João Pedro Costa](https://github.com/johnaopedro)  |
+| 1.2    | 04/09/2025 | Ajuste no id dos requisitos  | [Julia Gabriela](https://github.com/JuliaGabP) |  [João Pedro Costa](https://github.com/johnaopedro)  |
