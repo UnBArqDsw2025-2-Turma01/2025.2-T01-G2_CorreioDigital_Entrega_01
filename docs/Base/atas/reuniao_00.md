@@ -7,6 +7,8 @@
 **Horário:** 20:00 - 20:30.  
 **Tema:** Primeira reunião.  
 **Assunto:** Os participantes se apresentaram.
+**Descrição**  
+Nesta primeira reunião cada participante se apresentou, falou um pouco de si, suas perspectivas quanto ao semestre e familiaridade com o GitHub, canvas e demais tecnologias que serão utilizadas durante o desenvolvimento do projeto.
 
 ## Histórico de Versões
 
