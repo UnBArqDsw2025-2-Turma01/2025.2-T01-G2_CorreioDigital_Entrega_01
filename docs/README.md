@@ -41,8 +41,22 @@ BabelChat é uma plataforma que tem como objetivo conectar pessoas interessadas 
 ### Diagrama Causa Efeito
 ![Causa Efeito](./Assets/Planejamento%20e%20execução%20do%20projeto.png)
 
-### BPMN XP
-![XP](./Assets/bpmnXP.png)
+### Scrum
+
+![BPMN - SCRUM](./Assets/BPMN-SCRUM.svg)
+
+### XP
+
+#### Diagrama de execução do XP
+
+![Execução - XP](./Assets/execucaoXP.png)
+
+#### Diagrama BPMN do xp
+
+![BPMN - XP](./Assets/bpmnXP.png)
+
+### Kanban
+![BPMN - Kanban](./Assets/bpmnKanban.svg)
 
 ## Há algo a ser executado?
 
