@@ -6,5 +6,4 @@
 **Local:** Teams.  
 **Horário:** 20:00 - 20:30.  
 **Tema:** Primeira reunião.  
-
 **Observações/descrição:** Os participantes se apresentaram.  
