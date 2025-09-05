@@ -36,13 +36,13 @@ BabelChat é uma plataforma que tem como objetivo conectar pessoas interessadas 
 ![Rich Picture](./Base/img/rich%20picture.png)
 
 ### Protótipo
-![Prototipo](../Assets/Chat.png)
+![Prototipo](./Assets/Chat.png)
 
 ### Diagrama Causa Efeito
-![Causa Efeito](../Assets/Planejamento%20e%20execução%20do%20projeto.png)
+![Causa Efeito](./Assets/Planejamento%20e%20execução%20do%20projeto.png)
 
 ### BPMN XP
-![XP](../Assets/bpmnXP.png)
+![XP](./Assets/bpmnXP.png)
 
 ## Há algo a ser executado?
 
