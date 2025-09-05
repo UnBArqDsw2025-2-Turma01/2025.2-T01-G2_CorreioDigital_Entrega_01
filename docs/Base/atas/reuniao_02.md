@@ -6,7 +6,9 @@
 **Local:** Teams.  
 **Horário:** 20:00 - 20:30.  
 **Tema:** Reunião de final do módulo 2.  
-**Assunto:** Cada participantes explicou o que fez e as tarefas incompletas foram redistribuídas.
+**Assunto:** Cada participantes explicou o que fez e as tarefas incompletas foram redistribuídas.  
+**Descrição**  
+Após o módulo 2 ter sido encerrado, cada participante explicou o que fez e tirou suas dúvidas, percebemos que algumas atividades não foram concluídas, logo, elas foram redistribuídas e apresentadas no formato de enquete no grupo do projeto para que outros integrantes pudessem ajudar na realização dos artefatos faltantes.
 
 ## Gravação da Reunião
 
@@ -24,4 +26,5 @@
 |--------|------|-----------|--------|---------|
 | 1.0    | 04/09/2025 | Criação da documentação  | [Julia Gabriela](https://github.com/JuliaGabP) |  [João Pedro Costa](https://github.com/johnaopedro)  |  
 | 1.1    | 05/09/2025 | Adição do video na ata  | [João Pedro Costa](https://github.com/johnaopedro)  |  [Julia Gabriela](https://github.com/JuliaGabP) | 
+
 
