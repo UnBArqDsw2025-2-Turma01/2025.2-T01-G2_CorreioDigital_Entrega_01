@@ -33,5 +33,4 @@ Ao final na reunião decidimos criar cada um, um mapa mental e um rich picture p
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|--------|---------|
 | 1.0    | 04/09/2025 | Criação da documentação  | [Julia Gabriela](https://github.com/JuliaGabP) |  [João Pedro Costa](https://github.com/johnaopedro)  |
-
 | 1.1    | 05/09/2025 | Adição do video na ata  | [João Pedro Costa](https://github.com/johnaopedro)  |  [Julia Gabriela](https://github.com/JuliaGabP) |
