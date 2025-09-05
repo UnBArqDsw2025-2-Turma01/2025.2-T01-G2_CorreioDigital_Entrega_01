@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/)
-- [Projetos](/Projeto/Projeto.md)
+- [Início](/)
 
 - **Base**
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
@@ -19,3 +18,5 @@
     - [1.3. Modelagem BPMN](./Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](./Base/1.5.IniciativasExtras/1.5.IniciativasExtras.md)
+      - [1.5.1. Ferramentas Utilizadas](./Base/1.5.IniciativasExtras/1.5.1Ferramentas.md)
+      - [1.5.2. HeatMap](./Base/1.5.IniciativasExtras/1.5.2HeatMap.md)
