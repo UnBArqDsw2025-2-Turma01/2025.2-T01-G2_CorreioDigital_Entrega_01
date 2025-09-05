@@ -1,5 +1,10 @@
 ## Ata da reunião 00
 
+# Autorias no artefato
+|Integrante|Entrega|
+|-|-|
+|[Julia Gabriela Cunha Paulino](https://github.com/JuliaGabP)|Criação do documento|
+
 **Autor:** Julia.  
 **Data:** 24/08/2025.  
 **Participantes:** Eric, Esther, Guilherme, João Pedro Costa, João Pedro Veras, Julia, Mariiana, Pedro, Thales, Túlio.  
@@ -15,4 +20,5 @@ Nesta primeira reunião cada participante se apresentou, falou um pouco de si, s
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|--------|---------|
 | 1.0    | 04/09/2025 | Criação da documentação  | [Julia Gabriela](https://github.com/JuliaGabP) |  [João Pedro Costa](https://github.com/johnaopedro)  |  
+
 

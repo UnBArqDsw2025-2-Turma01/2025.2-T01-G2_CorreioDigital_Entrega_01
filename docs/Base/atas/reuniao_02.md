@@ -1,5 +1,11 @@
 ## Ata da reunião 02
 
+# Autorias no artefato
+|Integrante|Entrega|
+|-|-|
+|[João Pedro Costa](https://github.com/johnaopedro)|Adição da gravação|
+|[Julia Gabriela Cunha Paulino](https://github.com/JuliaGabP)|Criação do documento|
+
 **Autor:** Julia.  
 **Data:** 03/09/2025.  
 **Participantes:** Eric, Esther, João Pedro Costa, Julia, Pedro, Thales, Túlio.  
@@ -26,5 +32,6 @@ Após o módulo 2 ter sido encerrado, cada participante explicou o que fez e tir
 |--------|------|-----------|--------|---------|
 | 1.0    | 04/09/2025 | Criação da documentação  | [Julia Gabriela](https://github.com/JuliaGabP) |  [João Pedro Costa](https://github.com/johnaopedro)  |  
 | 1.1    | 05/09/2025 | Adição do video na ata  | [João Pedro Costa](https://github.com/johnaopedro)  |  [Julia Gabriela](https://github.com/JuliaGabP) | 
+
 
 
